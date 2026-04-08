@@ -15,4 +15,4 @@ Laravel, SQLite, Blade, Tailwind CSS, Vanilla JS, REST API
 1. `composer install`
 2. `php artisan migrate`
 3. `php artisan serve`
-4. Открой `http://localhost:8000/tasks`
+4. Открой `http://vanilla-crud-dashboard.test`
